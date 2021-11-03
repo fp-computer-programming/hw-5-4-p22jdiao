@@ -25,7 +25,7 @@ print("Peach" > "pear")
 print("x" * 100)
 
 # Question 7
-str(54321)
+print(str(54321))
 
 # Question 8
 print(not("p" in "Pineapple"))
